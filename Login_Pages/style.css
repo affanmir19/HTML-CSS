@@ -1,0 +1,47 @@
+* {
+    text-align: center;
+}
+
+div {
+    margin: -36% 4% 10% 69%;
+    background-color: gray;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 10%;
+}
+
+.text-1,
+.text-2 {
+    padding: 20px 70px 20px 70px;
+    border-radius: 30px;
+}
+
+.text-2 {
+    margin-top: 3%;
+}
+
+.sub {
+    color: white;
+    background-color: darkgreen;
+    height: 50px;
+    margin-top: 4%;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.icon {
+    margin-right: 70%;
+    width: 68%;
+}
+
+a {
+    color: black;
+    font-size: 2em;
+    float: right;
+    margin-top: -46%;
+    margin-right: 10%;
+    list-style: none;
+    text-decoration: none;
+}
