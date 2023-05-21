@@ -1,0 +1,53 @@
+ * {
+     color: white;
+ }
+
+ h1 {
+     color: black;
+     float: right;
+     margin-right: 15%;
+     font-size: 3em;
+     font-family: fantasy;
+     text-decoration: line-through;
+ }
+
+ ul li {
+     list-style: none;
+ }
+
+ ul li a {
+     text-decoration: none;
+     letter-spacing: 5px;
+ }
+
+ ul li a:hover {
+     background-color: blue;
+ }
+
+ h4 {
+     font-family: cursive;
+ }
+
+ h3 {
+     text-align: center;
+ }
+
+ h2,
+ h3 {
+     color: red;
+ }
+
+ #div-1 {
+     text-align: center;
+     background-color: black;
+     margin-left: 60%;
+     margin-right: 7%;
+     margin-top: -34%;
+     padding: 5%;
+ }
+
+ #adnan {
+     width: 50%;
+     height: 96vh;
+     border: 4px solid blue;
+ }
